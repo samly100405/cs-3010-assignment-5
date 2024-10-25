@@ -9,16 +9,15 @@ import org.samly.solvers.Polynomial;
 
 import java.io.File;
 import java.io.FileNotFoundException;
-import java.util.Arrays;
 import java.util.Scanner;
 
 public class Main {
     static final double X = 3.5467;
     static final double A = 1;
     static final double B = 5;
-
     static final double H = 0.0001;
     static final int N = 5;
+
     public static void main(String[] args) throws FileNotFoundException {
         Args a = new Args();
         JCommander.newBuilder()
@@ -151,8 +150,6 @@ public class Main {
             for (int traps : numTrapezoids) {
                 System.out.println("No. of Trapezoids: " + traps);
                 double[] areas = NumericalIntegrator.trapezoidMethod(f, A, B, traps);
-                double a = A;
-                double b = A + (B-A)/traps;
 
                 double sum = 0;
                 for (int j = 0; j < areas.length; j++) {
