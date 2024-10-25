@@ -1,0 +1,41 @@
+Derivative or Integral? (d/i)
+Enter a real number. 
+Taking derivative.
+f'(-42.79469099302755) = -9.666477574992934E8
+Derivative or Integral? (d/i)
+Enter a real number. 
+Taking derivative.
+f'(-34.83124671660703) = -4.252678267078497E8
+Derivative or Integral? (d/i)
+Enter a real number. 
+Taking derivative.
+f'(-5.212938158720837) = -226758.27347177753
+Derivative or Integral? (d/i)
+Enter a real number. 
+Taking integral.
+F(-44.544437928314665) = -7.54036792984075E10
+Derivative or Integral? (d/i)
+Enter a real number. 
+Taking derivative.
+f'(-39.99123291017502) = -7.377337787553607E8
+Derivative or Integral? (d/i)
+Enter a real number. 
+Taking integral.
+F(-9.776545342150001) = -8819158.452679649
+Derivative or Integral? (d/i)
+Enter a real number. 
+Taking integral.
+F(-71.19540060405765) = -1.2497482083624102E12
+Derivative or Integral? (d/i)
+Enter a real number. 
+Taking derivative.
+f'(-88.14968848074412) = -1.7302928503669853E10
+Derivative or Integral? (d/i)
+Enter a real number. 
+Taking integral.
+F(-4.276417198250426) = -63230.72387368082
+Derivative or Integral? (d/i)
+Enter a real number. 
+Taking integral.
+F(-6.41335594385758) = -716027.3603365313
+Derivative or Integral? (d/i)
