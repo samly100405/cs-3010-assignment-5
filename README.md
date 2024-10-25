@@ -14,4 +14,4 @@
 
 1. Make sure you have run `mvn install`.
 2. `python3 generate_polynomials.py <degree> <count>` generate `count` polynomials of degree `degree`.
-3. `python3 solve.py` will evaluate 10 polynomials named `func1.pol, func2.pol, ...` at 10 random points each.
+3. `python3 solve.py <n>` will evaluate *n* polynomials `func1.pol, func2.pol, ...` at 10 random points each.
