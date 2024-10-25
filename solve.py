@@ -1,8 +1,9 @@
 import os
+import sys
 import random
 
 def main():
-    for i in range(1, 11):
+    for i in range(1, int(sys.argv[1]) + 1):
         inputs = [('d' if random.random() > 0.5 else 'i', (random.random() - 1) * 100) for _ in range(10)]
 
         input = ""
